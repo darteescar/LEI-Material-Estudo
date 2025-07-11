@@ -2,82 +2,118 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://darteescar.github.io/LEI-Material-Estudo/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <lastmod>2025-07-11</lastmod>
     </url>
     <url>
          <loc>https://darteescar.github.io/LEI-Material-Estudo/Algoritmos/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <lastmod>2025-07-11</lastmod>
+    </url>
+    <url>
+         <loc>https://darteescar.github.io/LEI-Material-Estudo/Algoritmos/Material%20Pedag%C3%B3gico/</loc>
+         <lastmod>2025-07-11</lastmod>
     </url>
     <url>
          <loc>https://darteescar.github.io/LEI-Material-Estudo/Algoritmos/Testes%20e%20Exames/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <lastmod>2025-07-11</lastmod>
     </url>
     <url>
          <loc>https://darteescar.github.io/LEI-Material-Estudo/An%C3%A1lise/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <lastmod>2025-07-11</lastmod>
+    </url>
+    <url>
+         <loc>https://darteescar.github.io/LEI-Material-Estudo/An%C3%A1lise/Exerc%C3%ADcios%20%2B%20Solu%C3%A7%C3%B5es/</loc>
+         <lastmod>2025-07-11</lastmod>
+    </url>
+    <url>
+         <loc>https://darteescar.github.io/LEI-Material-Estudo/An%C3%A1lise/Material%20Pedag%C3%B3gico/</loc>
+         <lastmod>2025-07-11</lastmod>
+    </url>
+    <url>
+         <loc>https://darteescar.github.io/LEI-Material-Estudo/An%C3%A1lise/Testes%20e%20Exames/</loc>
+         <lastmod>2025-07-11</lastmod>
     </url>
     <url>
          <loc>https://darteescar.github.io/LEI-Material-Estudo/Arquitetura/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <lastmod>2025-07-11</lastmod>
+    </url>
+    <url>
+         <loc>https://darteescar.github.io/LEI-Material-Estudo/Arquitetura/Material%20Pedag%C3%B3gico/</loc>
+         <lastmod>2025-07-11</lastmod>
+    </url>
+    <url>
+         <loc>https://darteescar.github.io/LEI-Material-Estudo/Arquitetura/Testes%20e%20Exames/</loc>
+         <lastmod>2025-07-11</lastmod>
     </url>
     <url>
          <loc>https://darteescar.github.io/LEI-Material-Estudo/BD/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <lastmod>2025-07-11</lastmod>
+    </url>
+    <url>
+         <loc>https://darteescar.github.io/LEI-Material-Estudo/BD/Material%20Pedag%C3%B3gico/</loc>
+         <lastmod>2025-07-11</lastmod>
+    </url>
+    <url>
+         <loc>https://darteescar.github.io/LEI-Material-Estudo/BD/Testes%20e%20Exames/</loc>
+         <lastmod>2025-07-11</lastmod>
     </url>
     <url>
          <loc>https://darteescar.github.io/LEI-Material-Estudo/C%C3%A1lculo/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <lastmod>2025-07-11</lastmod>
     </url>
     <url>
          <loc>https://darteescar.github.io/LEI-Material-Estudo/IO/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <lastmod>2025-07-11</lastmod>
     </url>
     <url>
          <loc>https://darteescar.github.io/LEI-Material-Estudo/MNONL/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <lastmod>2025-07-11</lastmod>
     </url>
     <url>
          <loc>https://darteescar.github.io/LEI-Material-Estudo/PI/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <lastmod>2025-07-11</lastmod>
     </url>
     <url>
          <loc>https://darteescar.github.io/LEI-Material-Estudo/POO/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <lastmod>2025-07-11</lastmod>
     </url>
     <url>
          <loc>https://darteescar.github.io/LEI-Material-Estudo/POO/Testes%20e%20Exames/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <lastmod>2025-07-11</lastmod>
     </url>
     <url>
          <loc>https://darteescar.github.io/LEI-Material-Estudo/RC/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <lastmod>2025-07-11</lastmod>
     </url>
     <url>
          <loc>https://darteescar.github.io/LEI-Material-Estudo/RC/Exerc%C3%ADcios%20%2B%20Resolu%C3%A7%C3%A3o/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <lastmod>2025-07-11</lastmod>
     </url>
     <url>
          <loc>https://darteescar.github.io/LEI-Material-Estudo/RC/Material%20Pedag%C3%B3gico/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <lastmod>2025-07-11</lastmod>
     </url>
     <url>
          <loc>https://darteescar.github.io/LEI-Material-Estudo/RC/Testes%20e%20Exames/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <lastmod>2025-07-11</lastmod>
     </url>
     <url>
          <loc>https://darteescar.github.io/LEI-Material-Estudo/SC/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <lastmod>2025-07-11</lastmod>
     </url>
     <url>
          <loc>https://darteescar.github.io/LEI-Material-Estudo/SO/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <lastmod>2025-07-11</lastmod>
     </url>
     <url>
          <loc>https://darteescar.github.io/LEI-Material-Estudo/%C3%81lgebra/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <lastmod>2025-07-11</lastmod>
+    </url>
+    <url>
+         <loc>https://darteescar.github.io/LEI-Material-Estudo/%C3%81lgebra/Material%20Pedag%C3%B3gico/</loc>
+         <lastmod>2025-07-11</lastmod>
     </url>
     <url>
          <loc>https://darteescar.github.io/LEI-Material-Estudo/%C3%81lgebra/Testes%20e%20Exames/</loc>
-         <lastmod>2025-06-25</lastmod>
+         <lastmod>2025-07-11</lastmod>
     </url>
 </urlset>
