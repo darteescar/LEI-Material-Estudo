@@ -14,7 +14,7 @@
       
       
       <link rel="icon" href="../../assets/livro.png">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.14">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.21">
     
     
       
@@ -22,7 +22,7 @@
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.342714a4.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.2a3383ac.min.css">
       
         
         <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
@@ -294,6 +294,114 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#mutex_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mutex
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conditions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conditions
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#extra" class="md-nav__link">
+    <span class="md-ellipsis">
+      Extra
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#introducao-a-sistemas-distribuidos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução a Sistemas Distribuídos
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comunicacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Comunicação
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#serializacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Serialização
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#arquiteturas-de-clientes-e-servidores" class="md-nav__link">
+    <span class="md-ellipsis">
+      Arquiteturas de Clientes e Servidores
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#rpc" class="md-nav__link">
+    <span class="md-ellipsis">
+      RPC
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sincronizacao-de-relogios" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sincronização de Relógios
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#transacoes-distribuidas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Transações Distribuídas
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#procura-de-recursos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Procura de Recursos
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#final" class="md-nav__link">
+    <span class="md-ellipsis">
+      Final
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -351,6 +459,120 @@ Soluções com 2 ou mais Threads <br>
 Algoritmo de Peterson <br>
 O Algoritmo de Filtro para n Threads <br>
 Starvation <br></p>
+<h2 id="mutex_1"><a href="6_Mutex.pdf">Mutex</a></h2>
+<p>Algoritmo de Bakery <br></p>
+<h2 id="conditions"><a href="7_Conditions.pdf">Conditions</a></h2>
+<p>Motivação <br>
+Variavel de Condição <br>
+Erros Comuns <br>
+Reader-Writer com Conditions <br>
+Justiça <br>
+Correções <br></p>
+<h2 id="extra"><a href="8_Extra.pdf">Extra</a></h2>
+<p>Mutex com o Algoritmo de Peterson <br>
+Barreiras de Memória <br>
+Usos práticos <br>
+Condições vs Monitores <br></p>
+<h2 id="introducao-a-sistemas-distribuidos"><a href="9_Intro.pdf">Introdução a Sistemas Distribuídos</a></h2>
+<p>Definição de Sistemas Distribuídos <br>
+Objetivos <br>
+Arquiteturas de Sistemas Distribuídos <br>
+Cliente-Servidor <br>
+Layered <br>
+Event-Based <br>
+Peer-to-Peer <br>
+Protocolos <br>
+Protobuf <br>
+Middleware <br></p>
+<h2 id="comunicacao"><a href="10_Communication.pdf">Comunicação</a></h2>
+<p>Modelo OSI <br>
+Camadas <br>
+Simplificação do Modelo <br>
+TCP/IP <br>
+Buffering na Comunicação TCP/IP <br>
+Sockets <br>
+Interfaces de Sockets em Java <br>
+MoM <br>
+Comunicação em Grupos <br>
+MPI <br></p>
+<h2 id="serializacao"><a href="11_Serialization.pdf">Serialização</a></h2>
+<p>Motivação <br>
+Texto vs Binário <br>
+Formatos Binários <br>
+Single Object vs Multiple Objects <br>
+Tipos Compostos <br>
+Implícito vs Explícito <br>
+Tipos Compostos <br>
+Program vs Data first <br>
+Código de Conversão <br>
+Versionamento <br>
+Streaming vs Object Model <br>
+Sumário <br></p>
+<h2 id="arquiteturas-de-clientes-e-servidores"><a href="12_Architectures.pdf">Arquiteturas de Clientes e Servidores</a></h2>
+<p>Motivação <br>
+RPC <br>
+Single-Threaded Server <br>
+Thread-Per-Connection Server <br>
+Thread-Per-Request Server <br>
+Thread Pool Server <br>
+Notificações e Implicações <br>
+Modelo Geral de Comunicação <br>
+Limitações do RPC <br>
+Migração de Código <br>
+Desafios <br>
+Virtualização <br>
+Computação na Nuvem <br>
+Computação na Periferia <br>
+Sumário <br></p>
+<h2 id="rpc"><a href="13_RPC.pdf">RPC</a></h2>
+<p>Exemplo <br>
+Paradigmas <br>
+Problemas principais <br>
+RPC/RMI <br>
+Cliente/Servidor com Sockets <br>
+Stubs <br>
+Naming <br>
+Geração de Stubs e Namings <br>
+Gestão de Excepções <br>
+Sumário <br></p>
+<h2 id="sincronizacao-de-relogios"><a href="14_Clock_Synchronization.pdf">Sincronização de Relógios</a></h2>
+<p>Problemas com Relógios <br>
+NTP <br>
+RBS <br>
+Exclusão Mútua com Relógios Físicos <br>
+Problemas dos Timeouts <br>
+Modelo de Sistema Assíncrono <br>
+Causalidade <br>
+Relógios Lógicos de Lamport <br>
+Conclusão <br></p>
+<h2 id="transacoes-distribuidas"><a href="15_Distributed_Transactions.pdf">Transações Distribuídas</a></h2>
+<p>Tolerancia a Falhas <br>
+Commit Transacional <br>
+2PC <br>
+Problemas do 2PC <br>
+3PC (ou TRPC) <br>
+Replicação <br>
+Quorum <br>
+Bully Algorithm <br>
+Consenso <br>
+Paxos <br>
+Sumário <br></p>
+<h2 id="procura-de-recursos"><a href="16_Resource_Location.pdf">Procura de Recursos</a></h2>
+<p>Sistemas Descentralizados <br>
+Procura Hierárquica <br>
+DHTs <br>
+Chord <br>
+Multicast <br>
+Problemas de Multicast <br>
+Abordagens para Multicast <br>
+Gossip <br>
+Gossip e Epidemias <br>
+Fanout vs Confiabilidade <br>
+Redundância <br>
+Sumário <br></p>
+<h2 id="final"><a href="17_Final.pdf">Final</a></h2>
+<p>Resumo <br>
+Próximos Passos <br></p>
 
 
 
@@ -401,10 +623,10 @@ Starvation <br></p>
     
     
       
-      <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "Mais 1 nesta p\u00e1gina", "search.result.more.other": "Mais # nesta p\u00e1gina", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}, "version": null}</script>
+      <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "Mais 1 nesta p\u00e1gina", "search.result.more.other": "Mais # nesta p\u00e1gina", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}, "version": null}</script>
     
     
-      <script src="../../assets/javascripts/bundle.13a4f30d.min.js"></script>
+      <script src="../../assets/javascripts/bundle.f55a23d4.min.js"></script>
       
         <script src="../../assets/js/hide-feedback.js"></script>
       
