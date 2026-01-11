@@ -32,4 +32,4 @@ Para além disto, no ano letivo 2021/2022 era usado o MongoDB, daí no teste e n
 * [2017/2018 LCC](exame_2017_2018_LCC.pdf)
 * [2021/2022 LCC](exame_2021_2022_LCC.pdf)
 * [2022/2023 LCC](exame_2022_2023_LCC.pdf)
-* [2024/2025 LEI](exame_2024_2025_LEI.pdf) - na pergunta 7 é necessário ter em conta que falta o atributo 'Cidade' à tabela 'clientes'
+* [2024/2025 LEI](exame_2024_2025_LEI.pdf) / [2024/2025 LEI - RECRIAÇÃO](exame_2024_2025_LEI_rec.pdf)- na pergunta 7 (em ambos) é necessário ter em conta que falta o atributo 'Cidade' à tabela 'clientes'
