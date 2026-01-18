@@ -10,3 +10,6 @@ Uma coleção bastante grande de enunciados e algumas resoluções de anos passa
 
 ## [Notas de Estudo](Notas%20de%20Estudo/README.md)
 Materiais de estudo para a cadeira de Cálculo de Programas.
+
+## [Resolução das Fichas Práticas](https://github.com/eduardo106919/CP)
+Resolução das fichas práticas do ano letivo 2025/2026. Atenção que as resoluções foram feitas por um aluno.
