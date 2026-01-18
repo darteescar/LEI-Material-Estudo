@@ -12,4 +12,4 @@ Uma coleção bastante grande de enunciados e algumas resoluções de anos passa
 Materiais de estudo para a cadeira de Cálculo de Programas.
 
 ## [Resolução das Fichas Práticas](https://github.com/eduardo106919/CP)
-Resolução das fichas práticas do ano letivo 2025/2026. Atenção que as resoluções foram feitas por um aluno.
+Resolução das fichas práticas do ano letivo 2025/2026. É de notar que as resoluções foram feitas por um aluno.
