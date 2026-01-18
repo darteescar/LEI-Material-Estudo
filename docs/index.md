@@ -23,20 +23,22 @@ Agradecimento especial a todos os seguintes colegas e docentes:
 * [João Machado](https://github.com/pinetreeaxe) - pelos excel's para os momentos e-learning de EA
 * [Tiago Figueiredo](https://github.com/tiagofigueiredo7) - pelo material de FM (também sabe Java)
 * [Filipa Gonçalves](https://github.com/filipac271) - por todo o material de resoluções de fichas e resumos
+* [Eduardo Fernandes](https://github.com/eduardo106919) - pelas resoluções das fichas práticas de CP
+* [Salvador Coelho](https://github.com/salvatra) - pela recriação do recurso de 24/25 de BD
 
 ---
 
 ## 📨 Contribuições 
 
-Se tiverem algum teste, exame ou outro material que não esteja presente no site, por favor contactem a equipa de desenvolvimento através do Discord para que possamos adicioná-lo.
+Se tiverem algum teste, exame ou outro material que não esteja presente no site, por favor, abram uma issue ou um pull request no [repositório do GitHub](https://github.com/darteescar/LEI-Material-Estudo)
 
 ---
 
 
 ## 👥 Equipa de Desenvolvimento
 
-- [darteescar](https://github.com/darteescar) — Discord: filhodoedgar
-- [SimaoOliveira05](https://github.com/SimaoOliveira05) — Discord: mrvilager
+- [darteescar](https://github.com/darteescar)
+- [SimaoOliveira05](https://github.com/SimaoOliveira05)
 
 ---
 
