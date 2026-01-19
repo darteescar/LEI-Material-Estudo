@@ -5,9 +5,7 @@ Uma coleção bastante grande de enunciados de anos passados
 
 ## Teste
 * [2023/2024](PF_Teste_23_24.pdf)
-
-## Teste Modelo LCC
-* [2025/2026](PF_Teste_Modelo_25_26.pdf)
+* [2025/2026 Modelo de LCC](PF_Teste_Modelo_25_26.pdf)
 
 ## Exame Recurso
 * [2023/2024](PF_Recurso_23_24.pdf)
