@@ -12,7 +12,7 @@ Apontamentos feitos pela professora Carla Mendes para a UC do curso de LCC.
 Uma coleção bastante grande de enunciados e resoluções de anos passados
 
 ## [Exercícios e Resoluções](Exercícios%20e%20Soluções/README.md)
-Conjunto de fichas e resoluções de alguns exercícios das fichas de exercícios do ano letivo 2023/2024.
+Conjunto de fichas e respetivas resoluções de LCC do ano letivo 2025/2026.
 
 ## [Folha Auxílio](Folha%20Auxílio.pdf)
 Uma folha de auxílio com fórmulas e conceitos importantes para usar no teste final ou exame de recurso da UC.

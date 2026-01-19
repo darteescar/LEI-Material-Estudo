@@ -1,16 +1,15 @@
 # Exercícios e Resoluções
-Conjunto de fichas e resoluções de alguns exercícios  das fichas de exercícios do ano letivo 2023/2024.
-
-> ⚠️ **Aviso:** É de realçar que as resoluções poderão não estar corretas, ordenadas ou até completas.
+Conjunto de fichas de LCC do ano letivo 2025/2026.
 
 ---
 
-## Fichas
+## Fichas de Exercícios
+* [1 - Matrizes](Exercicios_Matrizes.pdf)
+* [2 - Sistemas de Equações Lineares](Exercícios_Sistemas_Equaçoes_Lineares.pdf)
+* [3 - Espaços vetoriais](Exercícios_Espaços%20Vetoriais.pdf)
+* [4 - Aplicações lineares](Exercícios_Aplicações_Lineares.pdf)
+* [5 - Álgebra Vetorial](Exercícios_Algebra_Vetorial.pdf)
+* [6 - Determinantes](Exercícios_Determinantes.pdf)
+* [7 - Valores próprios e vetores próprios](Exercícios_Valores_Vetores_Proprios.pdf)
 
-## Resoluções
-* [Ficha 1](Ficha%201.pdf)
-* [Ficha 2](Ficha%202.pdf)
-* [Ficha 3](Ficha%203.pdf)
-* [Ficha 4](Ficha%204.pdf)
-* [Ficha 5](Ficha%205.pdf)
-* [Ficha 6](Ficha%206.pdf)
+## [Resoluções](Exercicios_Resolucao.pdf)
