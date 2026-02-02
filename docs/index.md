@@ -23,7 +23,7 @@ Agradecimento especial a todos os seguintes colegas e docentes:
 * [João Machado](https://github.com/pinetreeaxe) - pelos excel's para os momentos e-learning de EA
 * [Tiago Figueiredo](https://github.com/tiagofigueiredo7) - pelo material de FM (também sabe Java)
 * [Filipa Gonçalves](https://github.com/filipac271) - por todo o material de resoluções de fichas e resumos
-* [Eduardo Fernandes](https://github.com/eduardo106919) - pelas resoluções das fichas práticas de CP
+* [Eduardo Fernandes](https://github.com/eduardo106919) - pelas resoluções das fichas práticas de CP e pelos minitestes de PI
 * [Salvador Coelho](https://github.com/salvatra) - pela recriação do recurso de 24/25 de BD
 
 ---
