@@ -8,6 +8,9 @@ Conjunto de slides usados na aulas teóricas da UC no ano letivo 2023/2024
 ## [Testes e Exames](Testes%20e%20Exames/README.md)
 Uma coleção bastante grande de enunciados de anos passados
 
+## [Minitestes](Minitestes/README.md)
+Uma coleção de enunciados de mini-testes de anos passados
+
 ## [Questões de aula](Questões/README.md)
 Enunciados e resoluções das questões de aula propostas durante o ano letivo 2023/2024
 
