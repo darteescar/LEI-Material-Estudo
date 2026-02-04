@@ -1,6 +1,6 @@
 # Material de Estudo LEI
 
-Website colaborativo de material de apoio para a Licenciatura em Engenharia Informática (LEI).
+Website colaborativo de material de apoio para a Licenciatura em Engenharia Informática (LEI)
 
 **Acede ao site:** https://darteescar.github.io/LEI-Material-Estudo/
 
