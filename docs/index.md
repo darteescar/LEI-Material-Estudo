@@ -25,6 +25,7 @@ Agradecimento especial a todos os seguintes colegas e docentes:
 * [Filipa Gonçalves](https://github.com/filipac271) - por todo o material de resoluções de fichas e resumos
 * [Eduardo Fernandes](https://github.com/eduardo106919) - pelas resoluções das fichas práticas de CP e pelos minitestes de PI
 * [Salvador Coelho](https://github.com/salvatra) - pela recriação do recurso de 24/25 de BD
+* [David Duarte](https://github.com/DvdDuarte) - pelos scripts do MATLAB para MNONL
 
 ---
 
