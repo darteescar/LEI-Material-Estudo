@@ -1,0 +1,6 @@
+(fun double (x) (* x 2))
+
+(decl y)
+(set y (double x))
+
+(print y)

@@ -1,0 +1,6 @@
+(fun double (x) (* x 2))
+
+(decl x)
+(set x (double 20))
+
+(print x)

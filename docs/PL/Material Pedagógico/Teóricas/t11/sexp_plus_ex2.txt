@@ -1,0 +1,5 @@
+(decl x)
+(read x)
+(decl y)
+(set y (if (< x 0) 0 x))
+(print y)

@@ -1,0 +1,13 @@
+(fun fact (n) (
+  (decl r)
+  (set r 1)
+  (while (> n 0) (
+    (set r (* r n))
+    (set n (- n 1))
+  ))
+  (return r)
+))
+
+(decl x)
+(read x)
+(print (fact x))

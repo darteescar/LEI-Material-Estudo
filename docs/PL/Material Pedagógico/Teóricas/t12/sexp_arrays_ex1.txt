@@ -1,0 +1,7 @@
+(decl x 5)
+(decl i)
+(set i 0)
+(while (< i 5) (
+  (read x[i])
+  (set i (+ i 1))
+))
