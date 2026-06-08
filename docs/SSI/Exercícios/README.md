@@ -3,31 +3,29 @@ Conjunto de exercícios, as respetivas soluções e resoluções usadas na aulas
 
 ---
 
-## [Semana 1](1.pdf)
+### [Semana 1](1.pdf)
 Guião da aula prática da semana 1
 
-## [Semana 2](2.pdf)
+### [Semana 2](2.pdf)
 Guião da aula prática da semana 2
 
-## [Semana 3](3.pdf)
+### [Semana 3](3.pdf)
 Guião da aula prática da semana 3
 
-## [Semana 4](4.pdf)
+### [Semana 4](4.pdf)
 Guião da aula prática da semana 4
 
-## [Semana 5](5.pdf)
+### [Semana 5](5.pdf)
 Guião da aula prática da semana 5
 
-## [Semana 6](6.pdf)
+### [Semana 6](6.pdf)
 Guião da aula prática da semana 6
 
-## [Semana 7](7.pdf)
+### [Semana 7](7.pdf)
 Guião da aula prática da semana 7
 
-## [Semana 8](8.pdf)
+### [Semana 8](8.pdf)
 Guião da aula prática da semana 8
-
----
 
 ### Semana 9 - Vulnerabilidades de Segurança de Memória
 - [Enunciado](S11/Lab%20-%20Semana%2011%20-%20Vulnerabilidades%20de%20Seguranca%20de%20Memoria.pdf)

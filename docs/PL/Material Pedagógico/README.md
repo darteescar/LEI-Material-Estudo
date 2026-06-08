@@ -3,30 +3,30 @@ Conjunto de slides usados na aulas teóricas da UC no ano letivo 2025/2026
 
 ---
 
-## [NB01 - Introduction to Language Processing](PL_NB01_Introduction_to_Language_Processing.ipynb)
+#### [NB01 - Introduction to Language Processing](PL_NB01_Introduction_to_Language_Processing.ipynb)
 Introdução ao processamento de linguagens
 
-## [NB02 - Regular Languages](PL_NB02_Regular_Languages.ipynb)
+### [NB02 - Regular Languages](PL_NB02_Regular_Languages.ipynb)
 Linguagens regulares
 
-## [NB03 - Lexical Analysis](PL_NB03_Lexical_Analysis.ipynb)
+### [NB03 - Lexical Analysis](PL_NB03_Lexical_Analysis.ipynb)
 Análise léxica
 
-## [NB04 - Context-free Languages](PL_NB04_Context_free_Languages.ipynb)
+### [NB04 - Context-free Languages](PL_NB04_Context_free_Languages.ipynb)
 Linguagens independentes de contexto
 
-## [NB05 - Syntactic Analysis](PL_NB05_Syntactic_Analysis.ipynb)
+### [NB05 - Syntactic Analysis](PL_NB05_Syntactic_Analysis.ipynb)
 Análise sintática
 
-## [NB06 - (An Introduction to) Semantic Analysis](PL_NB06_%28An_Introduction_to%29_Semantic_Analysis.ipynb)
+### [NB06 - (An Introduction to) Semantic Analysis](PL_NB06_%28An_Introduction_to%29_Semantic_Analysis.ipynb)
 Introdução à análise semântica
 
-## [NB07 - (An Introduction to) Code Generation](PL_NB07_%28An_Introduction_to%29_Code_Generation.ipynb)
+### [NB07 - (An Introduction to) Code Generation](PL_NB07_%28An_Introduction_to%29_Code_Generation.ipynb)
 Introdução à geração de código
 
 ---
 
-## Código de apoio das aulas
+### Código de apoio das aulas
 Exemplos de código demonstrados nas aulas teóricas, organizados por aula:
 
 - [t2](https://github.com/darteescar/LEI-Material-Estudo/tree/main/docs/PL/Material%20Pedag%C3%B3gico/t2) - Leitura de JSON e demonstração inicial
