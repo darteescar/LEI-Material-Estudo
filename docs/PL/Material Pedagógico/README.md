@@ -29,13 +29,13 @@ Introdução à geração de código
 ## Código de apoio das aulas
 Exemplos de código demonstrados nas aulas teóricas, organizados por aula:
 
-- [t2](t2/) - Leitura de JSON e demonstração inicial
-- [t3](t3/) - Analisadores léxicos (aritmética, listas, shopping)
-- [t4](t4/) - Análise léxica com estados, comentários e variáveis
-- [t6](t6/) - Parsers recursivos (avaliação, AST e verificação)
-- [t7](t7/) - Parsers recursivos (continuação)
-- [t8](t8/) - Lexer, parser, avaliação e programa de aritmética
-- [t9](t9/) - Parsers para a linguagem shopping
-- [t10](t10/) - Lexer, parser e tabela de símbolos para SEXP+
-- [t11](t11/) - Tradutor SEXP+ com tabela de símbolos
-- [t12](t12/) - Tradutores SEXP para arrays e funções
+- [t2](https://github.com/darteescar/LEI-Material-Estudo/tree/main/docs/PL/Material%20Pedag%C3%B3gico/t2) - Leitura de JSON e demonstração inicial
+- [t3](https://github.com/darteescar/LEI-Material-Estudo/tree/main/docs/PL/Material%20Pedag%C3%B3gico/t3) - Analisadores léxicos (aritmética, listas, shopping)
+- [t4](https://github.com/darteescar/LEI-Material-Estudo/tree/main/docs/PL/Material%20Pedag%C3%B3gico/t4) - Análise léxica com estados, comentários e variáveis
+- [t6](https://github.com/darteescar/LEI-Material-Estudo/tree/main/docs/PL/Material%20Pedag%C3%B3gico/t6) - Parsers recursivos (avaliação, AST e verificação)
+- [t7](https://github.com/darteescar/LEI-Material-Estudo/tree/main/docs/PL/Material%20Pedag%C3%B3gico/t7) - Parsers recursivos (continuação)
+- [t8](https://github.com/darteescar/LEI-Material-Estudo/tree/main/docs/PL/Material%20Pedag%C3%B3gico/t8) - Lexer, parser, avaliação e programa de aritmética
+- [t9](https://github.com/darteescar/LEI-Material-Estudo/tree/main/docs/PL/Material%20Pedag%C3%B3gico/t9) - Parsers para a linguagem shopping
+- [t10](https://github.com/darteescar/LEI-Material-Estudo/tree/main/docs/PL/Material%20Pedag%C3%B3gico/t10) - Lexer, parser e tabela de símbolos para SEXP+
+- [t11](https://github.com/darteescar/LEI-Material-Estudo/tree/main/docs/PL/Material%20Pedag%C3%B3gico/t11) - Tradutor SEXP+ com tabela de símbolos
+- [t12](https://github.com/darteescar/LEI-Material-Estudo/tree/main/docs/PL/Material%20Pedag%C3%B3gico/t12) - Tradutores SEXP para arrays e funções
