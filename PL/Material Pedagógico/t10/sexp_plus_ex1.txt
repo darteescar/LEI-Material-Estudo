@@ -1,0 +1,5 @@
+(decl y)
+(set y 10)
+(decl x)
+(set x (* y 2))
+(print x)

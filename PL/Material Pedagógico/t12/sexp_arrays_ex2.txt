@@ -1,0 +1,9 @@
+(decl n)
+(read n)
+(decl x n)
+(decl i)
+(set i 0)
+(while (< i n) (
+  (set x[i] (* i i))
+  (set i (+ i 1))
+))

@@ -1,0 +1,3 @@
+let xyz = 5;
+let abc = 10;
+10 * (abc + 4) % xyz

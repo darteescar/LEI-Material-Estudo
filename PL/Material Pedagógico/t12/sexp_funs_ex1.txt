@@ -1,0 +1,9 @@
+(fun mult (n m) (
+  (return (* n m))
+))
+
+(decl x)
+(read x)
+(decl y)
+(read y)
+(print (mult x y))

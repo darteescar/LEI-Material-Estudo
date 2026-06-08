@@ -1,0 +1,6 @@
+(decl x)
+(decl y)
+(read x)
+(set y (/ x 2))
+(set y (* y 2))
+(print (if (= x y) 0 1))

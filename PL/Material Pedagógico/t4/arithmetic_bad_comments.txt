@@ -1,0 +1,5 @@
+let x = 5;
+/*
+Do some advanced math.
+That's all.
+10 * (x + 4)
